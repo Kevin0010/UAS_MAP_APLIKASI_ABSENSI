@@ -162,7 +162,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Date & Time"
+                            android:text="Date &amp; Time"
                             android:textColor="@color/black"
                             android:textSize="14sp"
                             android:textStyle="bold" />
@@ -173,7 +173,7 @@
                             android:layout_height="50dp"
                             android:backgroundTint="#1D2F95"
                             android:focusableInTouchMode="false"
-                            android:hint="Insert Date & Time"
+                            android:hint="Insert Date &amp; Time"
                             android:imeOptions="actionNext"
                             android:inputType="date"
                             android:maxLines="1"
